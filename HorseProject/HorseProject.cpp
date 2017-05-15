@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 #include "horse.h"
+#include "gameplay.h"
 
 int main()
 {

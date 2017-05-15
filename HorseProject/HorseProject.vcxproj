@@ -138,6 +138,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="gameplay.h" />
     <ClInclude Include="horse.h" />
     <ClInclude Include="track.h" />
     <ClInclude Include="stdafx.h" />
